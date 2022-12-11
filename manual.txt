@@ -1,0 +1,6 @@
+********************MANUAL****************************
+This is the manual on how you are going to use it the application
+-Install JDK of the host machine
+-Run the source code on any java IDE
+-Build to exe file
+-Install on your desktop
