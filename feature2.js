@@ -7,4 +7,6 @@ const product =[
   {id:6, name="Jerry", address="Lagos",phone="090755484833"},
   {id:7, name="Blessing", address="Ibadan",phone="090755484833"},
   {id:8, name="Peace", address="Anambra",phone="090755484833"},
-]
+  {id:8, name="Peace", address="Anambra",phone="090755484833"},
+  {id:8, name="Peace", address="Anambra",phone="090755484833"},
+  ]
